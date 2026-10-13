@@ -1,0 +1,21 @@
+study_hours,attendance_percent,previous_score,final_score,result
+1,55,35,38,Needs Improvement
+2,60,40,43,Needs Improvement
+3,65,45,49,Needs Improvement
+4,70,50,55,Pass
+5,75,58,63,Pass
+6,80,62,68,Pass
+7,85,70,75,Pass
+8,90,78,84,Pass
+2,58,38,41,Needs Improvement
+3,68,48,52,Pass
+5,78,60,65,Pass
+6,82,66,70,Pass
+7,88,74,79,Pass
+1,50,30,33,Needs Improvement
+4,72,52,58,Pass
+8,95,85,89,Pass
+9,92,88,92,Pass
+2,62,42,45,Needs Improvement
+6,84,68,73,Pass
+5,76,57,62,Pass
